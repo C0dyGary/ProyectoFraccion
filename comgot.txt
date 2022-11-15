@@ -4,3 +4,24 @@ git commit
 git rm borrar archivo
 git restore archivo
 git mv archivo nuevonombre
+
+git diff
+git log
+
+
+git branch
+git checkout -b nombre-de-la-rama
+
+
+echo "# ProyectoFraccion" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+*git remote add origin https://github.com/GaryRosaValencia/ProyectoFraccion.git
+git push -u origin main
+
+
+git remote add origin https://github.com/GaryRosaValencia/ProyectoFraccion.git
+git branch -M main
+git push -u origin main
