@@ -1,0 +1,6 @@
+git init
+git add archivo
+git commit 
+git rm borrar archivo
+git restore archivo
+git mv archivo nuevonombre
